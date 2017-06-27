@@ -1,1 +1,1 @@
-# raschka_mlbook
+# My listings from Sebatian Raschka book "Python Machine Learning"
