@@ -1,1 +1,1 @@
-# Machine learning with Python examples
+# Examples of machine learning methods implemented in Python 
